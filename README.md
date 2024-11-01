@@ -9,7 +9,8 @@
 
 </br>
 
-<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-10-27%20003840.png" height="300" width="550"> </p>
+<img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125637.png" height="170" width="295"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125740.png" height="170" width="295"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125800.png" height="170" width="295">
+
 
 </br>
 
@@ -19,7 +20,6 @@
 
 ## ● Latihan 1
 
-**Implementasikan Java Code Diagram Class Berikut :**
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <img src="Dokumentasi/Assets/code.png">
 
-<a href=https://github.com/AgusSetiawn/Pemograman-Orientasi-Objek_latihan5/blob/main/Dokumentasi/Kode%20Java/Utama.java><strong><i>Salin Kode</i></strong></a>
+<a href=https://github.com/AgusSetiawn/Pemograman-Orientasi-Objek_latihan6/blob/main/Dokumentasi/Kode%20Java/latihan1.java><strong><i>Salin Kode</i></strong></a>
 
 <br/>
 
@@ -37,6 +37,29 @@
 
 <br/>
 
-<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-10-27%20011335.png" height="250" width="300"> </p>
+<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20133255.png" height="250" width="300"> </p>
+
+<br/>
+
+## ● Latihan 2
+
+
+<br/>
+
+### Kode
+
+<br/>
+
+<img src="Dokumentasi/Assets/code2.png">
+
+<a href=https://github.com/AgusSetiawn/Pemograman-Orientasi-Objek_latihan6/blob/main/Dokumentasi/Kode%20Java/latihan2.java><strong><i>Salin Kode</i></strong></a>
+
+<br/>
+
+### Output
+
+<br/>
+
+<p align="center"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20143619.png" height="350" width="300"> </p>
 
 <br/>
