@@ -9,7 +9,7 @@
 
 </br>
 
-<img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125637.png" height="170" width="295"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125740.png" height="170" width="295"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125800.png" height="170" width="295">
+<img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125637.png" height="150" width="250"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125740.png" height="150" width="250"> <img src="Dokumentasi/Assets/Screenshot%202024-11-01%20125800.png" height="150" width="250">
 
 
 </br>
